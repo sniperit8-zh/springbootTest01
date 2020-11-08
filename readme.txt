@@ -1,5 +1,5 @@
 1222。main
-test insert too 1ocal0000
+test insert local
 2
 3
 4
